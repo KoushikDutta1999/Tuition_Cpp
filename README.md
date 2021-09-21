@@ -6,4 +6,3 @@
 - Program to user input name in C++
 - Reverse every word in a string
 - Reverse every word in a string without a function
-- 
