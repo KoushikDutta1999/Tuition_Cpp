@@ -1,5 +1,6 @@
 # Tuition_Cpp
-- Check wether the given strings are anagram or not.
+- Check whether the given string is palindrome or not.
+- Check whether the given strings are anagram or not.
 - Check whether an array forms a mountain or not.
 - Check whether an array is in Sorted order or not.
 - Check whether an array increasing or not.
